@@ -7,7 +7,7 @@ A collection of bit manipulation algorithms and techniques implemented in variou
 Bit manipulation is the act of algorithmically manipulating bits or other pieces of data shorter than a byte. This repository contains common bit manipulation operations and their implementations.
 
 ## Common Operations
-[bitwiseOperators.cpp](bitwiseOperators.cpp)
+[BitwiseOperators.cpp](BitwiseOperators.cpp)
 ## Bitwise Operators in C++
 
 | Operator | Name           | Description                                     | Effect |
