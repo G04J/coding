@@ -19,7 +19,6 @@ Bit manipulation is the act of algorithmically manipulating bits or other pieces
 | `<<`     | Left Shift     | Shifts bits left (multiply by `2^n`)            | Moves bits left, filling with 0s |
 | `>>`     | Right Shift    | Shifts bits right (divide by `2^n`)             | Moves bits right, discarding or extending sign bit |
 
-
 ## Key Techniques
 
 1. Set a bit
