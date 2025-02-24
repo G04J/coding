@@ -19,17 +19,6 @@ Bit manipulation is the act of algorithmically manipulating bits or other pieces
 | `<<`     | Left Shift     | Shifts bits left (multiply by `2^n`)            | Moves bits left, filling with 0s |
 | `>>`     | Right Shift    | Shifts bits right (divide by `2^n`)             | Moves bits right, discarding or extending sign bit |
 
-## Key Techniques
-
-1. Set a bit
-2. Clear a bit
-3. Toggle a bit
-4. Check if bit is set
-5. Count set bits
-6. Find most/least significant bit
-7. Power of 2 check
-8. Odd/Even check
-
 ## Usage Examples
 
 ```cpp
