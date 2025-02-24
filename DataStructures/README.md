@@ -21,12 +21,11 @@ A data structure is a way of organizing and storing data in a computer so that i
 | **Map**            | Sorted key-value pair storage.                  | `<map>`            | O(log n) | O(log n) | O(log n) | O(log n) |
 | **Unordered Map**  | Hash-based key-value pairs.                     | `<unordered_map>`  | O(1) (avg) | O(1) (avg) | O(1) (avg) | O(1) (avg) |
 | **Bitset**         | Space-efficient fixed-size bit array.           | `<bitset>`         | O(1)   | O(1)   | O(1)      | O(1)     |
-| **Graph**         | Nodes and edges representation (Adjacency List/Matrix). | N/A (Custom)       | O(V+E) | O(V+E) | O(1) (Edge Insert) | O(1) (Edge Remove) |
 | **Trie**          | Tree-like structure for fast string searches.    | N/A (Custom)       | O(n)   | O(n)   | O(n)      | O(n)     |
 | **Segment Tree**  | Efficient range queries and updates.             | N/A (Custom)       | O(log n) | O(log n) | O(log n) | O(log n) |
+| **Graph**         | Nodes and edges representation (Adjacency List/Matrix). | N/A (Custom)       | O(V+E) | O(V+E) | O(1) (Edge Insert) | O(1) (Edge Remove) |
 
-
-## Difference between an array, a vector and a list in c++. 
+## Difference between an array, a vector and a list in c++
 
 | Feature              | **Array (`int arr[100]`)** | **Vector (`std::vector<int>`)** | **List (`std::list<int>`)** |
 |----------------------|-------------------------|-------------------------------|----------------------------|
